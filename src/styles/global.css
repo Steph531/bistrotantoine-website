@@ -15,7 +15,7 @@
 :root {
     /* Couleurs (RGB, espaces) */
     --primary: 34 24 14; /* #22180E — brun ardoise nuit, rappel du tableau noir de la carte */
-    --secondary: 139 26 26; /* #8B1A1A — rouge bordeaux profond, couleur enseigne bistrot classique */
+    --secondary: 196 48 48; /* #8B1A1A — rouge bordeaux profond, couleur enseigne bistrot classique */
     --surface: 252 248 242; /* #FCF8F2 — blanc cassé chaud, papier brasserie */
     --surface-alt: 245 238 228; /* #F5EEE4 — crème dorée, nappe de bistrot */
     --surface-dark: 28 20 12; /* #1C140C — brun très foncé, fond nocturne */
