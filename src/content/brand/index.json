@@ -1,50 +1,45 @@
 {
-  "phone": "+33 1 42 00 00 00",
-  "email": "contact@lejardin.fr",
-  "street_address": "12 rue des Abbesses",
-  "city": "Paris",
-  "postal_code": "75018",
-  "country": "FR",
-  "maps_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2889.2556203945455!2d7.003451999999999!3d43.601219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc298bd7316761%3A0xcfa566eef76b8c61!2sL&#39;Asia%20Mougins!5e0!3m2!1sfr!2sfr!4v1776434366494!5m2!1sfr!2sfr",
-  "logo": "",
-  "og_image": "",
-  "twitter_handle": "",
-  "instagram_url": "https://instagram.com",
-  "facebook_url": "https://facebook.com",
-  "youtube_url": "",
-  "hero_image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1600&q=80&auto=format&fit=crop",
-  "about_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=700&q=80&auto=format&fit=crop",
-  "hours": [
-    {
-      "days": "Mardi – Vendredi",
-      "lunch": "12h00 – 14h30",
-      "dinner": "19h30 – 22h00"
+    "phone": "+33 4 93 85 29 57",
+    "email": "",
+    "street_address": "27 Rue de la Préfecture",
+    "city": "Nice",
+    "postal_code": "06300",
+    "country": "FR",
+    "maps_url": "https://www.google.com/maps/place/Bistrot+d'Antoine/@43.6963347,7.2763054,17z/data=!4m15!1m8!3m7!1s0x12cddabcccc32c69:0xf95e1b31ae4d1b09!2sBistrot+d'Antoine!8m2!3d43.6963752!4d7.2763131!10e9!16s%2Fg%2F1tf89h1h!3m5!1s0x12cddabcccc32c69:0xf95e1b31ae4d1b09!8m2!3d43.6963752!4d7.2763131!16s%2Fg%2F1tf89h1h?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "og_image": "",
+    "twitter_handle": "",
+    "instagram_url": "",
+    "facebook_url": "",
+    "youtube_url": "",
+    "hero_image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1600&q=80&auto=format&fit=crop",
+    "about_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=700&q=80&auto=format&fit=crop",
+    "hours": [
+        { "days": "Mardi – Samedi", "lunch": "12h00 – 13h30", "dinner": "19h00 – 21h30" },
+        { "days": "Dimanche – Lundi", "lunch": "Fermé", "dinner": "" }
+    ],
+    "fr": {
+        "site_name": "Bistrot d'Antoine",
+        "tagline": "Bistronomie sincère au cœur du Vieux-Nice",
+        "restaurant_type": "Bistrot français traditionnel, cuisine de marché créative",
+        "meta_description": "Bistrot d'Antoine — bistrot de référence à Nice, ardoise du marché, vins du Sud, plats bistronomiques. 27 rue de la Préfecture, Vieux-Nice. Réservation recommandée.",
+        "hero_title": "L'ardoise qui fait vibrer le Vieux-Nice",
+        "hero_subtitle": "Cuisine de marché · Bib Gourmand Michelin · Vins du Sud",
+        "hero_cta": "Réserver une table",
+        "about_tagline": "Un bistrot de quartier devenu l'une des meilleures tables de Nice",
+        "about_description": "Niché rue de la Préfecture, à deux pas du marché du Cours Saleya, le restaurant propose une ardoise qui change au fil des saisons, mêlant l'esprit du Sud à une bistronomie généreuse et créative. La salle à deux niveaux, animée et conviviale, accueille aussi bien les habitués du quartier que les visiteurs en quête d'une cuisine authentique. Distingué Bib Gourmand par le Guide Michelin, le restaurant est réputé pour son excellent rapport qualité-prix.",
+        "menu_file": "/uploads/menu_bistrot_antoine_demo.pdf"
     },
-    { "days": "Samedi", "lunch": "", "dinner": "19h30 – 22h30" },
-    { "days": "Dimanche – Lundi", "lunch": "Fermé", "dinner": "Fermé" }
-  ],
-  "fr": {
-    "site_name": "Le Resto Laura",
-    "tagline": "Cuisine du marché · Paris",
-    "restaurant_type": "Cuisine française de saison",
-    "meta_description": "Restaurant gastronomique à Paris. Cuisine française de saison, produits locaux, cave à vins sélectionnée.",
-    "hero_title": "Une cuisine sincère, ancrée dans le terroir",
-    "hero_subtitle": "Produits de saison · Cuisine française · Paris 18e",
-    "hero_cta": "Réserver une table",
-    "about_tagline": "Une cuisine sincère, ancrée dans le terroir parisien depuis 2019.",
-    "about_description": "Né d'une passion pour les produits locaux et les saisons, Le Jardin est une table intimiste où chaque assiette raconte une histoire. Notre équipe met tout son soin à vous offrir un moment de partage authentique, du marché jusqu'à votre table.",
-    "menu_file": "/uploads/menu_mediterranea_mina_demo.pdf"
-  },
-  "en": {
-    "site_name": "Le Resto Laura",
-    "tagline": "Market cuisine · Paris",
-    "restaurant_type": "Seasonal French cuisine",
-    "meta_description": "Fine dining restaurant in Paris. Seasonal French cuisine, local produce, curated wine cellar.",
-    "hero_title": "Honest cooking, rooted in the terroir",
-    "hero_subtitle": "Seasonal produce · French cuisine · Paris 18th",
-    "hero_cta": "Book a table",
-    "about_tagline": "Honest, seasonal cooking rooted in Parisian terroir since 2019.",
-    "about_description": "Born from a passion for local produce and seasonal rhythms, Le Jardin is an intimate table where every dish tells a story. Our team takes great care to offer you an authentic moment of sharing, from the market to your plate.",
-    "menu_file": ""
-  }
+    "en": {
+        "site_name": "Bistrot d'Antoine",
+        "tagline": "Heartfelt bistronomy in the heart of Vieux-Nice",
+        "restaurant_type": "Traditional French bistro, creative market-driven cuisine",
+        "meta_description": "Bistrot d'Antoine — a landmark bistro in Nice, seasonal chalkboard menu, southern wines, bistronomy dishes. 27 rue de la Préfecture, Vieux-Nice. Reservations recommended.",
+        "hero_title": "The chalkboard that sets Vieux-Nice buzzing",
+        "hero_subtitle": "Market-fresh cuisine · Michelin Bib Gourmand · Southern wines",
+        "hero_cta": "Book a table",
+        "about_tagline": "A neighbourhood bistro that became one of Nice's finest tables",
+        "about_description": "Tucked away on rue de la Préfecture, steps from the Cours Saleya market, the restaurant offers a menu that changes with the seasons, blending the spirit of the South with generous, creative bistronomy. The lively two-level dining room welcomes both neighbourhood regulars and visitors seeking authentic French cuisine. Awarded a Bib Gourmand by the Michelin Guide, the restaurant is celebrated for its outstanding value for money.",
+        "menu_file": ""
+    }
 }
