@@ -1,7 +1,7 @@
 ---
 import type { HomeContent } from '../../../utils/i18n';
 import { getTranslator } from '../../../utils/i18n';
-import { Sprout, ChefHat, Users, Wine } from 'lucide-astro';
+import { Award, ChefHat, Wine } from 'lucide-astro';
 
 interface Props {
   content: HomeContent;
@@ -12,9 +12,8 @@ const { content, locale } = Astro.props;
 const t = await getTranslator(locale);
 
 const iconMap: Record<string, any> = {
-  sprout: Sprout,
+  award: Award,
   'chef-hat': ChefHat,
-  users: Users,
   wine: Wine,
 };
 ---
